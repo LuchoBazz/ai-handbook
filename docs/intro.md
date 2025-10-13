@@ -1,47 +1,31 @@
 ---
 sidebar_position: 1
+sidebar_label: Intro
 ---
 
-# Tutorial Intro
+# Welcome to the AI Handbook
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This repository is dedicated to organizing and documenting essential knowledge, concepts, and practical resources related to **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Science**.  
+It serves as a structured and evolving collection designed to support continuous learning and hands-on exploration of modern AI technologies.
+
+> **Note:** This documentation is developed and refined with the assistance of ChatGPT and similar AI tools.
+
+## ⚠️ **Disclaimer**  
+This repository represents personal research and learning notes.  
+It may contain inaccuracies, outdated information, or subjective interpretations.  
+Use the content **at your own discretion** and always validate critical information with official sources.
+
+## What is the AI Handbook?
+The **AI Handbook** is a curated compilation of theoretical explanations, code examples, and research insights covering the most relevant topics in the AI ecosystem.  
+Its purpose is to serve as a practical reference for understanding, building, and applying intelligent systems.
+
+## Contributions
+Contributions are welcome!  
+If you have suggestions, corrections, or valuable resources to add, feel free to open an issue or submit a pull request.  
+Let’s make this a collaborative and growing knowledge hub for the AI community.
 
 ## Getting Started
+To get started, explore the sections on **Machine Learning**, **Deep Learning**, or **Mathematics for AI**.  
+Each section provides concise explanations, visualizations, and code examples to help you quickly grasp key ideas.
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Thank you for visiting and enjoy exploring the world of Artificial Intelligence!
