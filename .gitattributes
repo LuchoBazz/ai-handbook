@@ -1,3 +1,0 @@
-# https://github.com/github/linguist/blob/master/docs/overrides.md#using-gitattributes
-*.css linguist-vendored
-*.js linguist-vendored
