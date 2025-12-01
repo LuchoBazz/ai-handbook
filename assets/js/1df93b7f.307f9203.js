@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkai_handbook=globalThis.webpackChunkai_handbook||[]).push([[583],{6866:(a,o,n)=>{n.r(o),n.d(o,{default:()=>u});var s=n(6540),h=n(6347),t=n(4848);function u(){const a=(0,h.W6)();return(0,s.useEffect)((()=>{a.push("/ai-handbook/docs/intro")}),[a]),(0,t.jsx)(t.Fragment,{})}}}]);
